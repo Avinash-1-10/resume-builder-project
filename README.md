@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Capstone Project - Resume Builder
 
 ## 🔗 Link
 Deployment Link: [resume-builder](https://resume-builder-project-mauve.vercel.app/)
