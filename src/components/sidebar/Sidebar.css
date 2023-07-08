@@ -1,0 +1,36 @@
+.sidebar {
+  display: inline-block;
+}
+
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-item {
+  padding: 1rem 3rem;
+  border-bottom: 1px solid rgb(196, 194, 194);
+  font-weight: bold;
+  font-size: 15px;
+  color: gray;
+  cursor: pointer;
+}
+
+.sidebar-selected-item {
+  border-left: 3px solid rgb(64, 105, 230);
+  color: rgb(64, 105, 230);
+}
+
+.small-sidebar {
+  display: none;
+  margin: 0;
+}
+
+@media (max-width: 806px) {
+  .small-sidebar {
+    display: inline-block;
+  }
+  .sidebar {
+    display: none;
+  }
+}
