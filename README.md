@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Deployment Link: [Resume Builder]([https://github.com/facebook/create-react-app](https://resume-builder-project-mauve.vercel.app/)).
+Deployment Link [Resume Builder]([https://github.com/facebook/create-react-app](https://resume-builder-project-mauve.vercel.app/)).
 
 ## Available Scripts
 
