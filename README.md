@@ -49,6 +49,3 @@ Open your browser and navigate to `http://localhost:3000` to view the app.
 - [Material-UI Documentation](https://material-ui.com/getting-started/usage/)
 - [react-pdf Documentation](https://react-pdf.org/guides/getting-started)
 - [React Router DOM Documentation](https://reactrouter.com/web/guides/quick-start)
-
-Please note that the provided resources are only examples and may not accurately represent the actual documentation or tutorial pages.
-
