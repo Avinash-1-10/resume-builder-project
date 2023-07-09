@@ -1,7 +1,7 @@
 # React Resume Builder
 
 ## Deployment Link:
-[Live Demo](https://example.com) 
+[Live Demo](https://resume-builder-project-mauve.vercel.app/) 
 
 ## Video Link:
 [Project Demo Video](https://youtube.com)
