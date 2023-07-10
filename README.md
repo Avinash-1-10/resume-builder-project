@@ -12,7 +12,7 @@
 ### Clone the Repository
 ### Install Dependencies
 ```bash
-  npm run install
+  npm install
 ```
 ### Start the Development Server
 ```bash
