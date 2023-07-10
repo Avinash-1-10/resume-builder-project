@@ -11,7 +11,13 @@
 
 ### Clone the Repository
 ### Install Dependencies
+```bash
+  npm run install
+```
 ### Start the Development Server
+```bash
+  npm start
+```
 
 
 Open your browser and navigate to `http://localhost:3000` to view the app.
@@ -27,17 +33,8 @@ Open your browser and navigate to `http://localhost:3000` to view the app.
 ## Project Flow:
 
 1. **Home Page**: Users can select a resume template from the available options.
-
-![Home Page](/images/home.png)
-
 2. **Form Filling**: Users are directed to a multi-step form where they enter their personal, educational, work experience, and skill details.
-
-![Form Filling](/images/form.png)
-
 3. **Preview**: After completing the form, users can preview their resume with the selected template.
-
-![Preview](/images/preview.png)
-
 4. **Save and Download**: Users can enter a filename for the PDF resume and download it.
 
 ![Save and Download](/images/download.png)
