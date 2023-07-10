@@ -4,7 +4,7 @@
 [Live Demo](https://resume-builder-project-mauve.vercel.app/) 
 
 ## Video Link:
-[Project Demo Video](https://youtube.com)
+[Project Demo Video](https://www.youtube.com/watch?v=S8RvKnPQQfk)
 
 
 ## How to Run the Project Locally:
