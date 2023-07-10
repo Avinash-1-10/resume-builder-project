@@ -37,7 +37,6 @@ Open your browser and navigate to `http://localhost:3000` to view the app.
 3. **Preview**: After completing the form, users can preview their resume with the selected template.
 4. **Save and Download**: Users can enter a filename for the PDF resume and download it.
 
-![Save and Download](/images/download.png)
 
 ## Resources:
 - [React Documentation](https://reactjs.org/docs/getting-started.html)
